@@ -11,7 +11,6 @@ zplug "zsh-users/zsh-autosuggestions"
 zplug "junegunn/fzf-bin", \
  as:command, \
  rename-to:fzf
-zplug "MichaelAquilina/zsh-you-should-use"
 zplug "zdharma/fast-syntax-highlighting"
 zplug "changyuheng/fz", defer:1
 zplug "rupa/z", use:z.sh
